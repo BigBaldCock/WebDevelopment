@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  text-align: center;
+background-color: #EBF5FB;
+font-family: 'Open Sans', sans-serif;
+font-size: 28px;}
+
+h1 {
+  margin: 0;
+  color: #66BFBF;
+  line-height: 4;
+  font-size: 48px;
+  font-family: 'Edu SA Beginner', cursive;
+}
+h2{
+  color: #66BFBF;
+  font-weight: normal;
+  font-family: 'Edu SA Beginner', cursive;
+}
+h3{
+  color: #11999E;
+  font-family: 'Edu SA Beginner', cursive;
+}
+
+.island{
+  margin: 50px;
+  margin-top: 200px;
+}
+.cl1{
+  position: absolute;
+  left:650px;
+   width: 300px; height: 200px;
+}
+.cl2{
+  position: absolute;
+  right: 650px;
+   width: 300px; height: 200px;
+}
+.cl3{
+  position: absolute;
+  top: 270px;
+  left: 480px;
+   width: 300px; height: 200px;
+}
+.cl4{
+  position: absolute;
+  top: 50px;
+  right: 500px;
+   width: 300px; height: 200px;
+}
+.cl5{  position: absolute;
+  right: 450px;
+  top: 500px;
+   width: 300px; height: 200px;
+}
+.cl6{  position: absolute;
+  left: 450px;
+  top: 500px;
+   width: 300px; height: 200px;
+}
+.top {
+  position: absolute;
+  right: 700px;
+  top: 25px;
+}
+
+.bottom {
+  position: absolute;
+  left: 700px;
+  top: 225px;
+}
+
+.topcontainer {
+  position: relative;
+  padding-top: 100px;
+}
+.bald{
+ width: 200px; height: 200px;
+ margin-top: 20px;
+}
+.middle-container{
+  background-color: #F8F9F9;
+  margin-top: 25px;
+  margin-bottom: 150px;
+
+}
+.skill-row{
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 200%;
+  clear: left;
+}
+
+.img{
+  width: 28%;
+  float: left;
+  margin-right:30px;
+
+}
+.p1{text-align: left;
+width: 40%;
+margin: auto;
+margin-bottom: 30px;}
+
+.b1{margin-bottom: 50px;}
+.btn {
+  background: #0d9eff;
+  background-image: -webkit-linear-gradient(top, #0d9eff, #08dbf7);
+  background-image: -moz-linear-gradient(top, #0d9eff, #08dbf7);
+  background-image: -ms-linear-gradient(top, #0d9eff, #08dbf7);
+  background-image: -o-linear-gradient(top, #0d9eff, #08dbf7);
+  background-image: linear-gradient(to bottom, #0d9eff, #08dbf7);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 34px;
+  padding: 13px 19px 12px 20px;
+  text-decoration: none;
+
+}
+.btn{margin: 50px;}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.footer-link{
+  padding: 40px;
+  border: 40px;
+  margin-bottom: 30px;
+  font-weight: normal;
+  font-family: 'Edu SA Beginner', cursive;
+}
+.i1{
+  margin-top: 50px;
+  font-weight: normal;
+  font-family: 'Edu SA Beginner', cursive;
+}
+.p3{
+  margin-bottom: 100px;
+}
